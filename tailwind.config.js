@@ -10,6 +10,12 @@ module.exports = {
         darkerorange: "#AB6C82",
         brown: "#685D79",
         offwhite: "#EFEEEE",
+        darkmode: "#121212",
+      },
+      fontFamily: {
+        Bitter: ["Bitter", "sans-serif"],
+        Roboto: ["Roboto", "sans-serif"],
+        RobotoMono: ["Roboto Mono", "monospace"],
       },
     },
   },
