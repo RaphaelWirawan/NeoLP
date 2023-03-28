@@ -12,7 +12,7 @@ export default function Home() {
         <div className="p-7 w-80 h-96 bg-slate-800 flex flex-col shadow-lg rounded-xl justify-evenly">
           <div className="flex flex-col">
             <p class="font-light font-RobotoMono text-base text-slate-400">
-              Hello, I'm
+              Hello, I&apos;m
             </p>
             <h1 class="font-Roboto font-extrabold text-4xl text-slate-100 tracking-wide">
               Raphael
